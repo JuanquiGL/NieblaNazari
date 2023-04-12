@@ -15,7 +15,7 @@ Univesidad de Granada
 
 **Resumen** : _________
 
-**logotipo** :  <href link=banksy-25.jpg>
+**logotipo** :  banksy-25.jpg
 
 **Slogan** (frase motivadora/inspiradora): ________
 
