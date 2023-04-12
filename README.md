@@ -9,13 +9,13 @@ Univesidad de Granada
 
 ----
 
-**Titulo** : _______
+**Titulo** : Niebla Nazarí
 
-**Autor(es)** ______________
+**Autor(es)** Guadalupe Terán, Javier Martín, Juan Carlos Gutiérrez
 
 **Resumen** : _________
 
-**logotipo** :  ________
+**logotipo** :  <href link=banksy-25.jpg>
 
 **Slogan** (frase motivadora/inspiradora): ________
 
