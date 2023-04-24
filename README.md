@@ -8,28 +8,28 @@ Univesidad de Granada
 
 ----
 
-**Titulo** : Niebla Nazarí
+**Título**: *Niebla Nazarí*
 
-**Autor(es)** Guadalupe Terán, Javier Martín, Juan Carlos Gutiérrez
+**Autores**: *Guadalupe Terán, Javier Martín, Juan Carlos Gutiérrez*
 
-**Resumen** : Niebla Nazarí es un juego interactivo en el que se narra una historia de terror de los sucesos ocurridos a un grupo de alumnos en un campamento de verano.
+**Resumen**: *Niebla Nazarí es un juego interactivo en el que se narra una historia de terror de los sucesos ocurridos a un grupo de alumnos en un campamento de verano.*
 
-**Logotipo** : ![Logo Niebla Nazarí](https://github.com/JuanquiGL/NieblaNazari/blob/master/Nazar%C3%AD_Portada1.png)
+**Logotipo**: ![Logo Niebla Nazarí](https://github.com/JuanquiGL/NieblaNazari/blob/master/Nazar%C3%AD_Portada1.png)
 
-**Slogan** : ________
+**Slogan**: *¿Te atreves a descubrir la verdad?*
 
-**Hashtag** : #NieblaNazarí
+**Hashtag**: *#NieblaNazarí*
 
-**Licencia** : https://github.com/JuanquiGL/NieblaNazari/blob/master/LICENSE
+**Licencia**: https://github.com/JuanquiGL/NieblaNazari/blob/master/LICENSE
 
-**Fecha** : 2023
+**Fecha**: *2023*
 
-**Medios** : 
+**Medios**: 
 
 
-* GitHub - https://github.com/JuanquiGL/NieblaNazari
-* Arcweave - https://arcweave.com/app/project/VO64apD0xY 
-* Instagram (como medio de difusión y promoción)
+* :octocat: GitHub - https://github.com/JuanquiGL/NieblaNazari
+* 🎮 Arcweave - https://arcweave.com/app/project/VO64apD0xY 
+* 📷 Instagram (como medio de difusión y promoción)
 
 
 
