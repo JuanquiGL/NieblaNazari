@@ -14,7 +14,7 @@ Univesidad de Granada
 
 **Resumen** : Niebla Nazarí es un juego interactivo en el que se narra una historia de terror de los sucesos ocurridos a un grupo de alumnos en un campamento de verano.
 
-**logotipo** :  _______
+**logotipo** : ![Logo Niebla Nazarí](https://github.com/JuanquiGL/NieblaNazari/blob/master/Nazar%C3%AD_Portada1.png)
 
 **Slogan** : ________
 
