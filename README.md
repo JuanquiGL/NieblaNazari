@@ -51,7 +51,9 @@ Los formatos audiovisuales de terror han proliferado en estos últimos años y s
 Los juegos, “choose your own adventure” son un género bastante popular y se han convertido en una forma innovadora de combinar ambos géneros y ofrecer una experiencia única. Esto puede generar una mayor sensación de inmersión y de control sobre el desarrollo de la historia. Otra de las ventajas de los juegos con diferentes opciones es la diversidad de finales, al igual que en los juegos convencionales, uno de terror puede ofrecer múltiples finales en función de las decisiones que tome el jugador. En consecuencia, esto puede aumentar la rejugabilidad y la satisfacción al descubrir diferentes resultados. 
 
 
-**Motivación de la propuesta** .... ¿ por qué consideras interesante ? 
+**Motivación de la propuesta** .... ¿ Por qué consideras interesante ? 
+
+Consideramos importante nuestro proyecto porque es complicado crear una buena historia de terror que realmente llame la atención de la gente. En este caso, al ser un juego de múltiples elecciones, la experiencia del usuario está algo más “personalizada” ya que permite que el jugador pueda seguir el hilo que más se adapta a sus preferencias. El hecho de que la historia se vaya desarrollando conforme a la elecciones del jugador hace que este se vea más comprometido emocionalmente con la historia y los personajes, y por lo tanto, más inmerso en la experiencia de juego. También lo consideramos original porque reformula el concepto del “campamento de terror de verano” que normalmente se usan en las producciones audiovisuales e introducimos una nueva forma de acercar el universo que rodea a la webserie original que es el juego.
 
 **Personas/Usuarios**  
 
