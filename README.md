@@ -1,6 +1,5 @@
-## (Nombre del proyecto)  
+## NIEBLA NAZARÍ 
 
-(Plantilla para la creación de un proyecto Multimedia Interactivo)
 
 Proyecto de [Creación Multimedia y Periodismo Multiplataforma](https://github.com/mgea/PeriodismoMultimedia)
 Master de Nuevos medios interactivos y periodismo multimedia
@@ -13,23 +12,23 @@ Univesidad de Granada
 
 **Autor(es)** Guadalupe Terán, Javier Martín, Juan Carlos Gutiérrez
 
-**Resumen** : _________
+**Resumen** : Niebla Nazarí es un juego interactivo en el que se narra una historia de terror de los sucesos ocurridos a un grupo de alumnos en un campamento de verano.
 
-**logotipo** :  banksy-25.jpg
+**logotipo** :  _______
 
-**Slogan** (frase motivadora/inspiradora): ________
+**Slogan** : ________
 
 **Hashtag**  ___
 
 **Licencia**    (usar una creative commons: revisar en https://creativecommons.org/licenses/?lang=es_ES) 
 
-**Fecha** : 2020
+**Fecha** : 2023
 
-**Medios** (donde se tiene presencia): 
+**Medios** : 
 
 
-*  :octocat: (github url) 
-* Twitter 
+* GitHub - https://github.com/JuanquiGL/NieblaNazari
+* Arcweave - https://arcweave.com/app/project/VO64apD0xY 
 * ... 
 
 
