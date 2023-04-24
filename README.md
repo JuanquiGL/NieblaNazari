@@ -87,10 +87,7 @@ Por último, hemos utilizado las redes sociales para darle promoción al videoju
 
 (Estrategia que plantearías para evaluar tu propuesta, medidodes e indicadores de éxito, elige / propone) 
 
-* Test con usuarios (...) 
-* ... 
-
-
+Previo al lanzamiento, se procede a elegir un grupo de personas de 20 o 30 para que prueben el juego y así den su opinión sobre qué cosas se podrían mejorar, que es lo que más les ha llamado la atención y cuáles son las sensaciones que han tenido mientras estaban jugando.
 
 
 
@@ -109,7 +106,6 @@ Referencias y recursos:
 * Productos utilizados  
 * Propuestas de me
 
-(...)
 
 
 
