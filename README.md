@@ -99,20 +99,6 @@ Previo al lanzamiento, se procede a elegir un grupo de personas de 20 o 30 para 
 
 
 
-Referencias y recursos: 
-
-* Artículos ..  
-* Productos utilizados  
-* Propuestas de me
-
-
-
-
-
-
-
-----
-
 **Referencias y recursos utilizados** :
 
 * [Proceso UX](https://uxmastery.com/resources/process/)
