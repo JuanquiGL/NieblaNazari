@@ -71,13 +71,15 @@ En el caso de aquellos que su primer contacto con Niebla Nazarí sea por este ju
 
 (Productos que has desarrollado y como se plantea la integración de los diferentes medios, pon los que uses) 
 
+A través de la herramienta Arcweave, hemos introducido la narrativa del videojuego y las diferentes decisiones que se deben tomar en el mismo. Por otro lado, hemos creado escenarios oportunos con *roomescapemaker* que aparecen en la experiencia de usuario tales como el edificio del campamento, la cabaña, la biblioteca o la habitación misteriosa. 
+
+En Arcweave, hemos establecido cinco variables globales de tipo booleano para determinar condicionales que cambian el curso del juego. Esto nos ha permitido abrir nuevas vías para mejorar la experiencia de usuario. 
+
+Por último, hemos utilizado las redes sociales para darle promoción al videojuego, como crear un perfil en Instagram para anunicar el lanzamiento y las posibles directrices que se han de tomar antes de comenzar la experiencia. 
+
 * Imagen visual (Portada / Diseño de Interfaz) y herramienta usada 
 
-* redes sociales (...) 
-
-* publicidad: banner (... ) 
-
-* ...
+* redes sociales 
 
 ### Etapa 3: Técnicas de evaluación utilizadas
 
