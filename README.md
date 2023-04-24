@@ -88,10 +88,15 @@ Previo al lanzamiento, se procede a elegir un grupo de personas de 20 o 30 para 
 ### Conclusiones y trabajo futuro
 
 
-* Grado de consecución del proyecto 
-* Problemas identificados  (técnicos / sobre la idea inicial / planificacion… ) 
-* Propuestas de mejora (por qué consideras que merece la pena continuar)
-* Posible interés del proyecto (¿ Quien podría  colaborar / involucrarse en el proyecto? ¿viable?)
+* Grado de consecución del proyecto: En el caso de que este juego ganase más importancia, se plantearía la idea de alargar algo más la historia e incluso crear otros pequeños juegos en los que se profundiza más en la historia de los antiguos alumnos del campamento. Esto también ayudaría a promocionar la webserie de la que procede el juego, además de crear hype de cara a la producción de una segunda temporada. También estos juegos se pueden crear en una aplicación para el móvil y ordenador que vaya ligada a la página web de la serie para que la gente nada más ver los capítulos proceda a jugar y así amplíe el universo.
+
+* Problemas identificados: Uno de los principales problemas es que el juego puede parecer que va muy rápido y que quizá las pistas necesarias se encuentran antes de tiempo, pero eso ocurre principalmente porque el programa tiene un límite de elecciones gratis. También que el diseño del programa sea oscuro y no puedas personalizarlo conforme a la temática del juego hace que se pierda un poco la “magia” e inmersión. 
+
+* Propuestas de mejora: Dentro del juego, se podría mejorar en cuanto a las imágenes, ya que realmente las hemos diseñado con ayuda de un programa que nos permite crear los espacios con los objetos que queramos, y lo que realmente queríamos es hacerlo con dibujos.
+
+
+* Posible interés del proyecto: Quizá muy a futuro y en el caso de que tuviese un muy buen recibimiento, que se diseñe como un videojuego actual. Obviamente habría que crear un guión, escenarios y personajes mucho más elaborados. Además de trabajar con profesionales para que el producto final, en cuanto a jugabilidad, experiencia e inmersión, sea como “The Quarry” o “Until Dawn”.
+
 
 
 Referencias y recursos: 
