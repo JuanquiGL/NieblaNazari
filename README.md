@@ -41,12 +41,12 @@ Metodología de desarrollo: Diseño de contenidos digitales mediante estrategia 
 
 ### Etapa 1: Ideación de proyecto 
 
-Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomultimedia
+Actividades realizadas mediante Milanote https://app.milanote.com/1PCuin1fLAfbas?p=fVCzKgTw2WW
 
-**Investigación de campo**   Desk research propuestas inspiradoras para el proyecto) 
+** 
 
-* @LadyDistopia (link) ...¿ por qué ?
-* (...)
+* 
+* 
 * 
 
 
@@ -54,7 +54,10 @@ Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomul
 
 **Motivación de la propuesta** .... ¿ por qué consideras interesante ? 
 
-**Personas/Usuarios**  (...¿en quién piensas que puede ser útil ? ¿cual es tu publico objetivo?) 
+**Personas/Usuarios**  
+
+El público del juego es específicamente para la gente que ya ha visto la webserie y quiere seguir adentrándose en el universo del mismo.
+En el caso de aquellos que su primer contacto con Niebla Nazarí sea por este juego, el público debe tener una edad más avanzada, alrededor de 10/11 años por el género de terror. Puede ser una experiencia divertida en el que las elecciones, junto con la exploración e investigación, hará que los jugadores quieran conocer más del universo y procedan a ver la web serie.
 
 **Estilo de narración**  (...indica como se hace uso de los medios)  
 
