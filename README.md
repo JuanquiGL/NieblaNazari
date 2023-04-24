@@ -46,6 +46,11 @@ Actividades realizadas mediante Milanote https://app.milanote.com/1PCuin1fLAfbas
 
 **Necesidad/oportunidad** 
 
+Los formatos audiovisuales de terror han proliferado en estos últimos años y se han convertido en tendencia. En nuestro caso, hemos elegido esta temática porque supone una forma efectiva de explorar temas como el miedo, la paranoia, el horror y la supervivencia. Además al ser un juego de elecciones nos da la oportunidad de crear una experiencia emocionante y desafiante para los jugadores. 
+
+Los juegos, “choose your own adventure” son un género bastante popular y se han convertido en una forma innovadora de combinar ambos géneros y ofrecer una experiencia única. Esto puede generar una mayor sensación de inmersión y de control sobre el desarrollo de la historia. Otra de las ventajas de los juegos con diferentes opciones es la diversidad de finales, al igual que en los juegos convencionales, uno de terror puede ofrecer múltiples finales en función de las decisiones que tome el jugador. En consecuencia, esto puede aumentar la rejugabilidad y la satisfacción al descubrir diferentes resultados. 
+
+
 **Motivación de la propuesta** .... ¿ por qué consideras interesante ? 
 
 **Personas/Usuarios**  
