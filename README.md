@@ -43,12 +43,6 @@ Metodología de desarrollo: Diseño de contenidos digitales mediante estrategia 
 
 Actividades realizadas mediante Milanote https://app.milanote.com/1PCuin1fLAfbas?p=fVCzKgTw2WW
 
-** 
-
-* 
-* 
-* 
-
 
 **Necesidad/oportunidad** 
 
