@@ -79,9 +79,9 @@ En Arcweave, hemos establecido cinco variables globales de tipo booleano para de
 
 Por último, hemos utilizado las redes sociales para darle promoción al videojuego, como crear un perfil en Instagram para anunicar el lanzamiento y las posibles directrices que se han de tomar antes de comenzar la experiencia. 
 
-* Imagen visual (Portada / Diseño de Interfaz) y herramienta usada 
+* Imagen visual (Portada / Diseño de Interfaz) y herramienta usadas 
 
-* redes sociales 
+* Redes sociales 
 
 ### Etapa 3: Técnicas de evaluación utilizadas
 
@@ -124,12 +124,7 @@ Referencias y recursos:
 * [Diseño de Experiencias UX](http://www.nosolousabilidad.com/articulos/uxd.htm) 
 * [Métodos UX](https://mgea.github.io/UX-DIU-Checklist/index.html) 
 * [MuseMap: ejemplo de experiencia UX](https://blog.prototypr.io/musemap-street-art-app-ux-case-study-9bec6a99823b) 
-* (...) 
 
-(...)
-* (Artículos ..  )
-* (Productos utilizados ) 
-* (Recursos tipo Imágenes, videos , etc.) 
 
 
 
