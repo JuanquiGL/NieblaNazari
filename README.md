@@ -51,7 +51,7 @@ Los formatos audiovisuales de terror han proliferado en estos últimos años y s
 Los juegos, “choose your own adventure” son un género bastante popular y se han convertido en una forma innovadora de combinar ambos géneros y ofrecer una experiencia única. Esto puede generar una mayor sensación de inmersión y de control sobre el desarrollo de la historia. Otra de las ventajas de los juegos con diferentes opciones es la diversidad de finales, al igual que en los juegos convencionales, uno de terror puede ofrecer múltiples finales en función de las decisiones que tome el jugador. En consecuencia, esto puede aumentar la rejugabilidad y la satisfacción al descubrir diferentes resultados. 
 
 
-**Motivación de la propuesta** .... ¿ Por qué consideras interesante ? 
+**Motivación de la propuesta**  
 
 Consideramos importante nuestro proyecto porque es complicado crear una buena historia de terror que realmente llame la atención de la gente. En este caso, al ser un juego de múltiples elecciones, la experiencia del usuario está algo más “personalizada” ya que permite que el jugador pueda seguir el hilo que más se adapta a sus preferencias. El hecho de que la historia se vaya desarrollando conforme a la elecciones del jugador hace que este se vea más comprometido emocionalmente con la historia y los personajes, y por lo tanto, más inmerso en la experiencia de juego. También lo consideramos original porque reformula el concepto del “campamento de terror de verano” que normalmente se usan en las producciones audiovisuales e introducimos una nueva forma de acercar el universo que rodea a la webserie original que es el juego. 
 
@@ -60,18 +60,14 @@ Consideramos importante nuestro proyecto porque es complicado crear una buena hi
 El público del juego es específicamente para la gente que ya ha visto la webserie y quiere seguir adentrándose en el universo del mismo.
 En el caso de aquellos que su primer contacto con Niebla Nazarí sea por este juego, el público debe tener una edad más avanzada, alrededor de 10/11 años por el género de terror. Puede ser una experiencia divertida en el que las elecciones, junto con la exploración e investigación, hará que los jugadores quieran conocer más del universo y procedan a ver la web serie.
 
-**Estilo de narración**  (...indica como se hace uso de los medios)  
+**Estilo de narración**    
 
-(ejemplos/alternativas) 
-* documental interactivo 
-* videojuego 
-* ... 
+El viaje del usuario comienza en la cuenta de Instagram de “Niebla Nazarí” donde se realizan algunas publicaciones con imágenes de objetos o lugares que son clave en el juego, captando así la atención de la gente. Tanto para los que hayan visto con anterioridad la webserie como para los que no. Un par de publicaciones e historias después se procederá a subir el enlace del juego para que la gente comience a probarlo y además les invitaremos a que compartan sus experiencias en las redes sociales, eso también será una forma de captar la atención de más gente.
 
 
 
-### Etapa 2: Prototipar / productos 
 
-(Productos que has desarrollado y como se plantea la integración de los diferentes medios, pon los que uses) 
+### Etapa 2: Prototipar / productos  
 
 A través de la herramienta Arcweave, hemos introducido la narrativa del videojuego y las diferentes decisiones que se deben tomar en el mismo. Por otro lado, hemos creado escenarios oportunos con *roomescapemaker* que aparecen en la experiencia de usuario tales como el edificio del campamento, la cabaña, la biblioteca o la habitación misteriosa. 
 
@@ -84,8 +80,6 @@ Por último, hemos utilizado las redes sociales para darle promoción al videoju
 * Redes sociales 
 
 ### Etapa 3: Técnicas de evaluación utilizadas
-
-(Estrategia que plantearías para evaluar tu propuesta, medidodes e indicadores de éxito, elige / propone) 
 
 Previo al lanzamiento, se procede a elegir un grupo de personas de 20 o 30 para que prueben el juego y así den su opinión sobre qué cosas se podrían mejorar, que es lo que más les ha llamado la atención y cuáles son las sensaciones que han tenido mientras estaban jugando.
 
