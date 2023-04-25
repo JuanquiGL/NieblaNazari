@@ -73,7 +73,7 @@ A través de la herramienta Arcweave, hemos introducido la narrativa del videoju
 
 En Arcweave, hemos establecido cinco variables globales de tipo booleano para determinar condicionales que cambian el curso del juego. Esto nos ha permitido abrir nuevas vías para mejorar la experiencia de usuario. 
 
-Por último, hemos utilizado las redes sociales para darle promoción al videojuego, como crear un perfil en Instagram para anunicar el lanzamiento y las posibles directrices que se han de tomar antes de comenzar la experiencia. 
+Por último, hemos utilizado las redes sociales para darle promoción al videojuego, como crear un perfil en Instagram para anunciar el lanzamiento y las posibles directrices que se han de tomar antes de comenzar la experiencia. 
 
 * Imagen visual (Portada / Diseño de Interfaz) y herramienta usadas 
 
