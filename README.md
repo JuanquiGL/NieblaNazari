@@ -95,7 +95,7 @@ Previo al lanzamiento, se procede a elegir un grupo de personas de 20 o 30 para 
 * Propuestas de mejora: Dentro del juego, se podría mejorar en cuanto a las imágenes, ya que realmente las hemos diseñado con ayuda de un programa que nos permite crear los espacios con los objetos que queramos, y lo que realmente queríamos es hacerlo con dibujos.
 
 
-* Posible interés del proyecto: Quizá muy a futuro y en el caso de que tuviese un muy buen recibimiento, que se diseñe como un videojuego actual. Obviamente habría que crear un guión, escenarios y personajes mucho más elaborados. Además de trabajar con profesionales para que el producto final, en cuanto a jugabilidad, experiencia e inmersión, sea como “The Quarry” o “Until Dawn”.
+* Posible interés del proyecto: Quizá en un futuro, y en el caso de que tuviese un buen recibimiento, percibimos la posibilidad de diseñarlo como un videojuego actual. Obviamente, habría que crear un guión, escenarios y personajes mucho más elaborados. Además de trabajar con profesionales para que el producto final, en cuanto a jugabilidad, experiencia e inmersión, sea similar a “The Quarry” o “Until Dawn”.
 
 
 
